@@ -1,0 +1,6 @@
+Acessos
+
+Usuario: admin 
+Senha: admin123 
+
+Para acessar o de cliente só realizar cadastro e logar. 
